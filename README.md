@@ -15,7 +15,7 @@ Usuário Administrador: Poderá acessar o Painel de Aministração para avaliar 
 
 Usuário Logado: Poderá acessar todos os contos disponíveis e avaliados pelo administrador.
 
-Usuário Visitante: Poderá acesar um número limitado de contos e não terá acesso ao mural de fotos dos leitores.
+Usuário Visitante: Poderá acesar um número limitado de contos (apenas os três primeiros) e não terá acesso ao mural de fotos dos leitores.
 
 Mapa de Navegação: 
 
