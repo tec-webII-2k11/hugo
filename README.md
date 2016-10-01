@@ -17,6 +17,4 @@ Usuário Logado: Poderá acessar todos os contos disponíveis e avaliados pelo a
 
 Usuário Visitante: Poderá acesar um número limitado de contos (apenas os três primeiros) e não terá acesso ao mural de fotos dos leitores.
 
-Mapa de Navegação: 
-
-Wireframe:
+Wireframe: [Sitemap.png]
